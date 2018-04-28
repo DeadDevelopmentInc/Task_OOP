@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Library_OOP
 {
-    public class Class1
+    public class Production
     {
     }
 }
