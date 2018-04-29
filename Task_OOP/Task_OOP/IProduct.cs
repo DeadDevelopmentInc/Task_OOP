@@ -8,5 +8,6 @@ namespace Task_OOP
 {
     public interface IProduct
     {
+
     }
 }

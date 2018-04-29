@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task_OOP
 {
-    public interface IMaterial
+    class Material
     {
+        string Name { get; set; }
+        Price Price { get; set; }
     }
 }
